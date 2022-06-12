@@ -4,6 +4,7 @@ date: 2022-06-11T12:04:16-05:00
 tags: ["go"]
 ---
 
+
 Go's [`context`](https://pkg.go.dev/context) is a very central package and can be very useful and
 powerful if it's used correctly. For example, the [`net/http`](https://pkg.go.dev/net/http) or the
 the [`grpc`](https://pkg.go.dev/google.golang.org/grpc) packages rely on it.
