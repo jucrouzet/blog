@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on go get blog</title><link>http://blog.juliencrouzet.fr/fr/blog/</link><description>Recent content in Blog on go get blog</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sat, 11 Jun 2022 12:04:16 -0500</lastBuildDate><atom:link href="http://blog.juliencrouzet.fr/fr/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Un peu de contexte</title><link>http://blog.juliencrouzet.fr/fr/blog/un-peu-de-contexte/</link><pubDate>Sat, 11 Jun 2022 12:04:16 -0500</pubDate><guid>http://blog.juliencrouzet.fr/fr/blog/un-peu-de-contexte/</guid><description>&lt;p>Le package &lt;a href="https://pkg.go.dev/context">&lt;code>context&lt;/code>&lt;/a> de Go est un package très central et peut être
+très puissant si il est utilisé correctement.
+Par exemple, les package &lt;a href="https://pkg.go.dev/net/http">&lt;code>net/http&lt;/code>&lt;/a> ou &lt;a href="https://pkg.go.dev/google.golang.org/grpc">&lt;code>grpc&lt;/code>&lt;/a>
+reposent sur lui.
+D&amp;rsquo;un autre coté, ses concepts peuvent être un peu difficiles à comprendre au début et peuvent être confusants,
+poussant les développeurs à l&amp;rsquo;ignorer ou mal l&amp;rsquo;utiliser.&lt;/p>
+&lt;p>Essayons d&amp;rsquo;explorer ces concepts.&lt;/p></description></item></channel></rss>
