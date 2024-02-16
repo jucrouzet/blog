@@ -56,7 +56,7 @@ theme = "introduction"
     # Icon pack "fab" includes social network icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
     # Icon pack "fas" includes solid style icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
     [[params.social]]
-        url   = "https://twitter.com/fullstackjacket"
+        url   = "https://twitter.com/codeAndPotatoes"
         icon  = "twitter" # icon name without the 'fa-'
         icon_pack = "fab"
     # [[params.social]]
@@ -125,16 +125,3 @@ theme = "introduction"
         [languages.en.params]
             description  = "Hi, I'm Julien Crouzet, a french developer."   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
-
-    [languages.fr]
-        languageName     = "French"
-        languageCode     = "fr"
-        contentDir       = "content/fr"
-        weight           = 1
-        title            = "go get blog"
-        dateFormat       = "02/01/2006"
-        timeFormat       = "fr-FR"
-        [languages.fr.params]
-            description  = "Salut, je suis Julien Crouzet, un développeur français."
-            timeFormat       = "fr-FR"
-            # footerText   = ""
