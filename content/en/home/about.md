@@ -19,4 +19,4 @@ to update it as often as possible, but no warranty, of course.
 Please share it if you can/want, it'll probably help me to get motivated.
 
 English is not my first language, content may, erm, will contain a lot of typos and errors, don't
-hesitate to make pull requests if you want.
+hesitate to make pull requests or leave a comment if you want.
